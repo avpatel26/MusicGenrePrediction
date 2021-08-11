@@ -1,4 +1,4 @@
-# MusicGenrePrediction
+# Music Genre Prediction
 
 This repo analyse supervised Machine Learning algorithms(Naïve Bayes, logistic regression, Decision tree), for automatically identify the genre of a song on the basis of its audio, metadata and textual features.
 
